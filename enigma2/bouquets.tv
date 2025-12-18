@@ -1,0 +1,80 @@
+#NAME Khaled
+#SERVICE 1:64:15:0:0:0:0:0:0:0::●●●●●● WELCOME ●●●●●●
+#DESCRIPTION ●●●●●● WELCOME ●●●●●●
+#SERVICE 1:64:6:0:0:0:0:0:0:0::======= Cloud&More =======
+#DESCRIPTION ======= Cloud&More =======
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.l_عبدالباسط_عبدالصمدl.tv" ORDER BY bouquet
+#SERVICE 1:64:7:0:0:0:0:0:0:0::==============
+#DESCRIPTION ==============
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userSubBouquet.____KHALED______tv__1.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.nilesat.tv" ORDER BY bouquet
+#SERVICE 1:64:9:0:0:0:0:0:0:0::==============
+#DESCRIPTION ==============
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userSubBouquet.movies_drama__tv__1.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userSubBouquet.sport__tv__1.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.osn__tv_.tv" ORDER BY bouquet
+#SERVICE 1:64:11:0:0:0:0:0:0:0::==============
+#DESCRIPTION ==============
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userSubBouquet.kids__tv__1.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.Education.tv" ORDER BY bouquet
+#SERVICE 1:64:13:0:0:0:0:0:0:0::==============
+#DESCRIPTION ==============
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userSubBouquet.news__tv__1.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.Culture.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userSubBouquet.islam__tv__1.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userSubBouquet.music__tv__1.tv" ORDER BY bouquet
+#SERVICE 1:64:18:0:0:0:0:0:0:0::==============
+#DESCRIPTION ==============
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userSubBouquet.____ARAB______tv__1.tv" ORDER BY bouquet
+#SERVICE 1:64:0:0:0:0:0:0:0:0::●●●||| SAT |||●●●
+#DESCRIPTION ●●●||| SAT |||●●●
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.34_5w_ku_band_intelsat_35e___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.30_0w_spainsat___hispasat_30w_5_30w_6___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.22_0w_ku_band_ses_4___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.14_0w_ku_band_express_am8___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:64:1:0:0:0:0:0:0:0::==============
+#DESCRIPTION ==============
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.4.0WAmos37-Services.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.3_0w_ku_band_abs_3a___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.0_8w_ku_band_thor_5_6_7___intelsat_10_02___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.1_9e_bulgariasat_1___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.3_0e_ku_band_eutelsat_3b___rascom_qaf_1r___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.4_8e_ku_band_astra_4a___ses_5___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.7_0e_ku_band_eutelsat_7b_7c___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.9_0e_ku_band_eutelsat_9b___ka_sat_9a___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.10_0e_ku_band_eutelsat_10b___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:64:2:0:0:0:0:0:0:0::==============
+#DESCRIPTION ==============
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.13_0e_hotbird_13f_13g___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.16_0e_ku_band_eutelsat_16a___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.19_2e_astra_1kr_1l_1m_1n___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.21_5e_eutelsat_21b___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.ciefp_23e_astra.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.26_0e_ku_band_badr_5_7_8___eshail_2___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.30_5e_arabsat_5a_6a___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.31_0e_t_rksat_5a___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:64:3:0:0:0:0:0:0:0::==============
+#DESCRIPTION ==============
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.36_0e_eutelsat_36b___express_amu1___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.39_0e_hellas_sat_3_4___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.42_0e_ku_band_t_rksat_3a_4a_5b___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.46_0e_ku_band_azerspace_1___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:64:5:0:0:0:0:0:0:0::==============
+#DESCRIPTION ==============
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.50_0e_t_rksat_4b___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.52_0e_turkmen_lem_monacosat___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.52_5e_al_yah_1___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.53_0e_express_am6___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:64:19:0:0:0:0:0:0:0::==============
+#DESCRIPTION ==============
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.62_0e_ku_band_intelsat_39___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.68_5e_ku_band_intelsat_20_36___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.70_5e_eutelsat_70b___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.78_5e_ku_band_thaicom_6_8___services__tv_.tv" ORDER BY bouquet:78.5E Thaicom 6/8
+#DESCRIPTION 78.5E Thaicom 6/8
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.87_5e_ku_band_chinasat_12___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.100_5e_ku_band_asiasat_5___services__tv_.tv" ORDER BY bouquet
+#SERVICE 1:64:4:0:0:0:0:0:0:0::==============
+#DESCRIPTION ==============
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.LastScanned.tv" ORDER BY bouquet
