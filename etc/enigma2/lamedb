@@ -8341,7 +8341,7 @@ ITALIA 156
 p:Canale Italia
 0f1e:0dc00000:0384:5000:1:0:0
 Moga Comedy
-p:Gulfsat,c:000f20,c:010f21,c:030f20,c:190f1f
+p:Gulfsat,c:000f20,c:010f21,c:030f20,c:050001,c:190f1f
 0f1e:0dc03166:0384:5000:1:0:0
 Moga Comedy
 p:Gulfsat,c:000f20,c:030f20,c:190f1f
@@ -10837,7 +10837,7 @@ SPORT 2
 p:DIGI HU,c:000250,c:010339,c:030250,c:190aa0,C:0b00,C:1802,C:1880,C:1807,C:1879,C:1871,C:0b02,C:1815,C:181d,C:0653,C:0d97
 0f3c:0dc00000:0384:5000:1:0:0
 PLAY AFLAM
-p:Gulfsat,c:000f3e,c:010f3f,c:030f3e,c:190f3d
+p:Gulfsat,c:000f3e,c:010f3f,c:030f3e,c:050001,c:190f3d
 0f3c:0dc03166:0384:5000:1:0:0
 PLAY AFLAM
 p:Gulfsat,c:000f3e,c:030f3e,c:190f3d
@@ -10849,7 +10849,7 @@ Viasat True Crime
 p:CANAL+,c:0000ab,c:0300ab,c:1903f4,C:1813,C:1884,C:0b01
 193c:0dc00000:02bc:5000:1:0:0
 AL SHASHA CINEMA
-p:Gulfsat,c:00193e,c:01193f,c:03193e
+p:Gulfsat,c:00193e,c:01193f,c:03193e,c:050001
 193c:0dc0ad9e:02bc:5000:1:0:0
 AL SHASHA CINEMA
 p:Gulfsat
@@ -11572,7 +11572,7 @@ TV5 Monde
 p:TV5 Monde,c:000fb7,c:030fb7,c:050001,c:190331,C:1802
 0f46:0dc00000:0384:5000:1:0:0
 PLAY CINEMA
-p:Gulfsat,c:000f48,c:010f49,c:030f48,c:190f47
+p:Gulfsat,c:000f48,c:010f49,c:030f48,c:050001,c:190f47
 0f46:0dc03166:0384:5000:1:0:0
 PLAY CINEMA
 p:Gulfsat,c:000f48,c:030f48,c:190f47
@@ -11587,7 +11587,7 @@ National Geographic Wild HD
 p:CANAL+
 1946:0dc00000:02bc:5000:1:0:0
 AL SHASHA MOSLSLAT
-p:Gulfsat,c:001948,c:011949,c:031948,c:191947
+p:Gulfsat,c:001948,c:011949,c:031948,c:050001,c:191947
 1946:0dc0ad9e:02bc:5000:1:0:0
 AL SHASHA MOSLSLAT
 p:Gulfsat,c:001948,c:031948,c:191947
@@ -12211,7 +12211,7 @@ Romania TV
 p:DigiTV,c:000283,c:01036c,c:030283,c:190c94,C:1802,C:1880,C:0b02,C:181d
 0f50:0dc00000:0384:5000:1:0:0
 PLAY DRAMA
-p:Gulfsat,c:000f52,c:010f53,c:030f52,c:190f51
+p:Gulfsat,c:000f52,c:010f53,c:030f52,c:050001,c:190f51
 0f50:0dc03166:0384:5000:1:0:0
 PLAY DRAMA
 p:Gulfsat,c:000f52,c:030f52,c:190f51
@@ -12484,7 +12484,7 @@ ALAMAL TV
 p:
 1f54:0dc00000:02bc:5000:1:0:0
 AL SHASHA DRAMA
-p:Gulfsat,c:001f56,c:011f57,c:031f56,c:191f55
+p:Gulfsat,c:001f56,c:011f57,c:031f56,c:050001,c:191f55
 1f54:0dc0ad9e:02bc:5000:1:0:0
 AL SHASHA DRAMA
 p:Gulfsat,c:001f56,c:031f56,c:191f55
@@ -12868,7 +12868,7 @@ K::CN Svet+ 3
 p:Total TV,c:00010e,c:03010e,c:1900aa
 0f5a:0dc00000:0384:5000:1:0:0
 PLAY HEKAYAT
-p:Gulfsat,c:000f5c,c:010f5d,c:030f5c,c:190f5b
+p:Gulfsat,c:000f5c,c:010f5d,c:030f5c,c:050001,c:190f5b
 0f5a:0dc03166:0384:5000:1:0:0
 PLAY HEKAYAT
 p:Gulfsat,c:000f5c,c:030f5c,c:190f5b
@@ -13207,7 +13207,7 @@ InfoMediaNews
 p:WiTel
 1f5e:0dc00000:02bc:5000:1:0:0
 AL SHASHA HEKAYAT
-p:Gulfsat,c:001f60,c:011f61,c:031f60,c:191f5f
+p:Gulfsat,c:001f60,c:011f61,c:031f60,c:050001,c:191f5f
 1f5e:0dc0ad9e:02bc:5000:1:0:0
 AL SHASHA HEKAYAT
 p:Gulfsat,c:001f60,c:031f60,c:191f5f
@@ -13687,7 +13687,7 @@ Tring History
 p:Tring TV,c:000a5b,c:030a5b,c:190105,C:0baa
 0f64:0dc00000:0384:5000:1:0:0
 PLAY TODAY
-p:Gulfsat,c:000f66,c:010f67,c:030f66,c:190f65
+p:Gulfsat,c:000f66,c:010f67,c:030f66,c:050001,c:190f65
 0f64:0dc03166:0384:5000:1:0:0
 PLAY TODAY
 p:Gulfsat,c:000f66,c:030f66,c:190f65
@@ -15799,7 +15799,7 @@ Dream Monawaet
 p:MY TV
 1f7c:0dc00000:02bc:5000:1:0:0
 AL SHASHA FILM
-p:Gulfsat,c:001f7e,c:011f7f,c:031f7e,c:191f7d
+p:Gulfsat,c:001f7e,c:011f7f,c:031f7e,c:050001,c:191f7d
 1f7c:0dc0ad9e:02bc:5000:1:0:0
 AL SHASHA FILM
 p:Gulfsat,c:001f7e,c:031f7e,c:191f7d
@@ -19552,7 +19552,7 @@ POPCORN
 p:DEMIROREN MEDYA,c:00006c,c:030134,c:1907b4,C:06f8,C:092b
 19b4:0dc00000:02bc:5000:1:0:0
 AL SHASHA ALWAN
-p:Gulfsat,c:0019b6,c:0119b7,c:0319b6,c:1919b5
+p:Gulfsat,c:0019b6,c:0119b7,c:0319b6,c:050001,c:1919b5
 19b4:0dc0ad9e:02bc:5000:1:0:0
 AL SHASHA ALWAN
 p:Gulfsat,c:0019b6,c:0319b6,c:1919b5
@@ -23053,7 +23053,7 @@ Abertis PID 2308
 p:ABERTIS,c:031fff,c:150904,c:191c8c,C:2600,f:1
 0eec:0dc00000:0384:5000:1:0:0
 Moga Cinema
-p:Gulfsat,c:000eee,c:010eef,c:030eee,c:190eed
+p:Gulfsat,c:000eee,c:010eef,c:030eee,c:050001,c:190eed
 0eec:0dc03166:0384:5000:1:0:0
 Moga Cinema
 p:Gulfsat,c:000eee,c:030eee,c:190eed
@@ -23734,7 +23734,7 @@ Test
 p:NILESAT,c:000fcd,c:030fcd,c:190afd
 0ef6:0dc00000:0384:5000:1:0:0
 Moga Drama
-p:Gulfsat,c:000ef8,c:010ef9,c:030ef8,c:190ef7
+p:Gulfsat,c:000ef8,c:010ef9,c:030ef8,c:050001,c:190ef7
 0ef6:0dc03166:0384:5000:1:0:0
 Moga Drama
 p:Gulfsat,c:000ef8,c:030ef8,c:190ef7
@@ -32593,7 +32593,7 @@ LA7 on demand
 p:
 1a18:0dc00000:02bc:5000:22:0:0
 SHABABIK HEKAYAT
-p:Gulfsat,c:001a1a,c:031a1a,c:191a19
+p:Gulfsat,c:001a1a,c:011a1b,c:031a1a,c:050001,c:191a19
 1c18:005a0000:0384:0110:22:0:0
 PADRE PIO TV
 p:
@@ -34261,7 +34261,7 @@ MTV Europe
 p:DigitALB,c:000c81,c:030c81,c:190c80,C:0b00,C:091f,C:0911,C:069f
 1b80:0dc00000:02bc:5000:22:0:0
 SHABABIK DRAMA
-p:Gulfsat,c:001b82,c:031b82,c:191b81
+p:Gulfsat,c:001b82,c:011b83,c:031b82,c:050001,c:191b81
 0081:00a00000:0002:0040:22:0:0
 Da Vinci Learning.
 p:T-HT,c:000b25,c:010a25,c:030b25,c:050001,c:190224,C:1830,C:069b
@@ -35251,7 +35251,7 @@ Arta TV
 p:DigitALB,c:0005e7,c:0305e7,c:1905e6,C:0b00
 19e6:0dc00000:02bc:5000:22:0:0
 SHABABIK MOSLSLAT
-p:Gulfsat,c:0019e8,c:0319e8,c:1919e7
+p:Gulfsat,c:0019e8,c:0119e9,c:0319e8,c:050001,c:1919e7
 50e6:01040000:0816:00e0:22:0:0
 Misk Syria TV
 p:EshailSat,c:00006e,c:03006e,c:1902c6
