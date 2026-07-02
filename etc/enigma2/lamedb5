@@ -3082,7 +3082,7 @@ s:0a29:0dcaaffc:001a:02be:1:0:0,"SAUDI TV HD",p:Barrowa,c:00200,c:03200,c:051,c:
 s:0a29:00a00000:427e:016e:1:0:0,"ACASA GOLD"
 s:1329:0dca0000:0031:0800:1:0:0,"dmc drama",p:Nilesat,c:001331,c:011332,c:031331,c:1969,f:1000
 s:1329:0dcaaf3c:0031:0800:1:0:0,"dmc drama",p:Nilesat,c:001331,c:031331,c:1969
-s:1629:0dca0000:0236:0800:1:0:0,"Spare 5673",c:00d5,c:03d5,c:051,c:1971,C:1708,C:1709,C:170a,C:170b
+s:1629:0dca0000:0236:0800:1:0:0,"Al Yawm",c:00d5,c:03d5,c:051,c:1971,C:1708,C:1709,C:170a,C:170b
 s:1c29:0dc00000:0048:0001:1:0:0,"Iraqia Ent HD",c:001c31,c:011c37,c:031c31,c:051,c:196d
 s:1c29:0dc03113:0048:0001:1:0:0,"Iraqia Ent HD",c:001c31,c:031c31,c:196d
 s:002a:001e2ca6:0001:0001:1:0:0,"France 24 (Fr)",p:FTA,c:002b,c:015f,c:032b,c:051,c:192a
@@ -3110,7 +3110,7 @@ s:0d2a:0dc03166:0384:5000:1:0:0,"Awdeh",p:Palsat,c:00d2c,c:03d2c,c:19d2b
 s:132a:0dca0000:0031:0800:1:0:0,"Extra Live SD",p:Nilesat,c:001334,c:011335,c:031334,c:196a
 s:132a:0dcaaf3c:0031:0800:1:0:0,"Extra Live SD",p:Nilesat,c:001334,c:031334,c:196a
 s:132a:00820000:33f4:013e:1:0:0,"RIKSat",f:10000
-s:162a:0dca0000:0236:0800:1:0:0,"Spare 5674",c:00d6,c:03d6,c:051,c:1972,C:1708,C:1709,C:170a,C:170b
+s:162a:0dca0000:0236:0800:1:0:0,"Al Safwa",c:00d6,c:03d6,c:051,c:1972,C:1708,C:1709,C:170a,C:170b
 s:1c2a:0dc00000:0048:0001:1:0:0,"Radio AL-Iraqia",c:031c33,c:196e
 s:1c2a:0dc03113:0048:0001:1:0:0,"Radio AL-Iraqia",c:031c33,c:196e
 s:232a:00460000:4e20:0064:1:0:0,"Kanal Yek HD",c:00399,c:03399,c:051,c:19398
@@ -3132,7 +3132,7 @@ s:0a2b:00a00000:427e:016e:1:0:0,"National TV"
 s:0c2b:00820000:1e78:0071:1:0:0,"Fx Comedy HD",p:Cyfrowy Polsat S.A.,c:001f5,c:031f5,c:1922,C:186c,C:6ed,C:1861,C:1803,C:1870
 s:0c2b:0082afe9:1e78:0071:1:0:0,"Fx Comedy HD",p:Cyfrowy Polsat S.A.,c:001f5,c:031f5,c:1922,C:186c,C:6ed,C:1861,C:1803,C:1870
 s:142b:00820000:05dc:013e:1:0:0,"HBO3 HD",p:CANAL+
-s:162b:0dca0000:0236:0800:1:0:0,"Spare 5675",c:00d7,c:03d7,c:051,c:1973,C:1708,C:1709,C:170a,C:170b
+s:162b:0dca0000:0236:0800:1:0:0,"Cinema 1",c:00d7,c:03d7,c:051,c:1973,C:1708,C:1709,C:170a,C:170b
 s:1c2b:0dc00000:0048:0001:1:0:0,"Radio AI-Forqan",c:031c34,c:196f
 s:1c2b:0dc03113:0048:0001:1:0:0,"Radio AI-Forqan",c:031c34,c:196f
 s:232b:00820000:2328:013e:1:0:0,"Ronahi TV",p:STN,c:00407,c:03407,c:19387
@@ -3168,7 +3168,7 @@ s:0c2c:00820000:1e78:0071:1:0:0,"TVP 2 HD",p:Cyfrowy Polsat S.A.,c:00606,c:03606
 s:0c2c:0082afe9:1e78:0071:1:0:0,"TVP 2 HD",p:Cyfrowy Polsat S.A.,c:00606,c:03606,c:1931,C:1813,C:1884,C:6ed,C:500,C:186c,C:b01,C:1861,C:1803,C:1870
 s:132c:0dca0000:0031:0800:1:0:0,"dmc masraheyat",p:Nilesat,c:00133a,c:01133b,c:03133a,c:196c
 s:132c:0dcaaf3c:0031:0800:1:0:0,"dmc masraheyat",p:Nilesat,c:00133a,c:03133a,c:196c
-s:162c:0dca0000:0236:0800:1:0:0,"Spare 5676",c:00d8,c:03d8,c:051,c:1974,C:1708,C:1709,C:170a,C:170b
+s:162c:0dca0000:0236:0800:1:0:0,"Cinema 2",c:00d8,c:03d8,c:051,c:1974,C:1708,C:1709,C:170a,C:170b
 s:1c2c:0dc00000:0048:0001:1:0:0,"Radio Baghdad",c:031c35,c:1970
 s:1c2c:0dc03113:0048:0001:1:0:0,"Radio Baghdad",c:031c35,c:1970
 s:232c:00820000:2328:013e:1:0:0,"JIN TV",p:STN,c:00411,c:03411,c:19388
@@ -3202,7 +3202,7 @@ s:0a2d:0dcaaffc:001a:02be:1:0:0,"Saudia Alaan TV HD",p:SBA,c:001f5,c:031f5,c:051
 s:0c2d:00820000:1e78:0071:1:0:0,"FX HD",p:Cyfrowy Polsat S.A.,c:00385,c:03385,c:1923,C:186c,C:6ed,C:1861,C:1803,C:1870
 s:0c2d:0082afe9:1e78:0071:1:0:0,"FX HD",p:Cyfrowy Polsat S.A.,c:00385,c:03385,c:1923,C:186c,C:6ed,C:1861,C:1803,C:1870
 s:142d:00820000:05dc:013e:1:0:0,"CANAL+ EXTRA 4",p:CANAL+
-s:1c2d:0dc00000:0048:0001:1:0:0,"Iraqi Kids Test HD"
+s:1c2d:0dc00000:0048:0001:1:0:0,"Test HD",c:001c4c,c:031c4c,c:1971
 s:232d:00820000:2328:013e:1:0:0,"ORLER TV",p:STN,c:0041b,c:0341b,c:19389
 s:232d:0082b0e8:2328:013e:1:0:0,"ORLER TV",p:STN,c:0041b,c:0341b,c:19389
 s:332d:00820000:1388:013e:1:0:0,"DW English HD",p:Globecast,c:003f2,c:013f3,c:033f2,c:051,c:1965
@@ -3302,7 +3302,7 @@ s:0031:02082a34:1d36:1d36:1:0:0,"Classic TV",p:Persiana Cast,c:00bb8,c:03bb8,c:1
 s:0131:01860000:0010:001c:1:0:0,"Penthouse Gold",c:00342,c:03342,c:19131,C:952,C:92f,C:500
 s:0131:00820000:3e1c:013f:1:0:0,"FRANCE 5",p:Eutelsat,c:00227,c:01228,c:0222b,c:03227,c:051,C:0
 s:0131:01040000:012c:0e26:1:0:0,"PRESS TV",p:IRIB,c:00bea,c:01beb,c:03bea
-s:0131:0dca0000:9cd6:077e:1:0:0,"ESport 24",p:ECLUTCH,c:00beb,c:01bec,c:03beb,c:051,c:19bea,C:170a,C:500,C:1708,C:1709,C:170b,C:18b3
+s:0131:0dca0000:9cd6:077e:1:0:0,"ESport 24",p:ECLUTCH,c:00beb,c:01bec,c:03beb,c:051,c:19bea,C:500,C:1708,C:170a,C:1709,C:170b,C:18b3
 s:0131:0dca2d06:9cd6:077e:1:0:0,"ESport 24",p:ECLUTCH,c:00beb,c:03beb,c:19bea,C:170a,C:500,C:1708,C:1709,C:170b,C:18b3
 s:0231:00130000:0018:0003:1:0:0,"This is Bulgaria HD",p:neosat,c:0070d,c:0170e,c:0370d,c:057,c:1970f,C:4aee,C:b00
 s:0231:03110000:0069:0e26:1:0:0,"KH.RAZAVI HD",p:IRIB,c:0015ea,c:0315ea,c:057,c:1215eb
@@ -3473,6 +3473,7 @@ s:0037:00d7aaa7:0002:0000:1:0:0,"SPORT-HD",c:004b5,c:034b5,c:057,c:19451,C:5448,
 s:0037:00a00000:cb2c:016e:1:0:0,"Pink Sci-Fi&Fantasy",p:pink,c:0022b,c:0322b,c:051,c:19ff,C:629,C:91f,C:911,C:69f
 s:0037:01040000:012d:02be:1:0:0,"TEST",p:JMC,c:031fff,c:1926
 s:0037:0dc00000:c3b4:077e:1:0:0,"Kan_Makan",c:034a6,c:19138
+s:0137:0dca0000:0003:0800:1:0:0,"Fann",c:00d3,c:03d3,c:051,c:196f,C:1708,C:1709,C:170a,C:170b,f:40
 s:0137:00820000:3e1c:013f:1:0:0,"TFX",p:Eutelsat,C:0
 s:0237:03110000:0069:0e26:1:0:0,"BARAN HD",p:IRIB
 s:0437:005a0000:0001:00aa:1:0:0,"Star Κεντρικής Ελλάδας",p:OTE,c:001df,c:031df,c:051,c:1917b,C:9be,C:95e
@@ -3491,6 +3492,7 @@ s:0038:00d7aa68:0002:0000:1:0:0,"CHC-HD",C:0
 s:0038:00d7aaa7:0002:0000:1:0:0,"CHC-HD",c:004b6,c:034b6,c:057,c:19452,C:5448,C:4b4a
 s:0038:00a00000:cb2c:016e:1:0:0,"Pink Reality",p:pink,c:0022c,c:0322c,c:051,c:19100,C:629,C:91f,C:911,C:69f
 s:0038:0dc00000:c3b4:077e:1:0:0,"Kan_Reka",c:034b0,c:19139
+s:0138:0dca0000:0003:0800:1:0:0,"Music Now",f:40
 s:0138:01860000:000d:001c:1:0:0,"Nostalgia TV",c:001f4,c:031f4,c:1924,C:952,C:92f,C:500
 s:0138:00820000:3e1c:013f:1:0:0,"NOVO 19",p:Eutelsat,C:0
 s:0338:0dca0000:0008:0800:1:0:0,"ALISTIQAMA TV",c:00573,c:01574,c:03573,c:051,c:1917c
@@ -3521,6 +3523,7 @@ s:0039:00d7aa68:0002:0000:1:0:0,"SPORT+HD",c:004b7,c:034b7,c:057,c:1551b,C:0
 s:0039:00d7aaa7:0002:0000:1:0:0,"SPORT+-HD",c:004b7,c:034b7,c:057,c:1551b,c:19453,C:5448,C:4b4a
 s:0039:0dc00000:c3b4:077e:1:0:0,"Kan_Hamusica",c:034ba,c:1913a
 s:0039:01040000:1bc0:02be:1:0:0,"MBC Test 1",p:MBC,c:001ae,c:012c3,c:031ae,C:2600,f:1000
+s:0139:0dca0000:0003:0800:1:0:0,"Tarabiyat",c:03139,c:1971,C:1708,C:1709,C:170a,C:170b,f:40
 s:0139:00820000:3e1c:013f:1:0:0,"LCP",p:Eutelsat,C:0
 s:0139:0dca0000:0c23:006e:1:0:0,"AL ESHRAQ TV",c:00277,c:01278,c:03277,c:1919d
 s:0139:0dca2d79:0c23:006e:1:0:0,"AL ESHRAQ TV",c:00277,c:03277,c:1919d
@@ -3577,6 +3580,7 @@ s:003b:00d7aa68:0002:0000:1:0:0,"CCTV7-HD",C:0
 s:003b:00d7aaa7:0002:0000:1:0:0,"CCTV7-HD",c:004b9,c:034b9,c:057,c:19455,C:5448,C:4b4a
 s:003b:0dc00000:c3b4:077e:1:0:0,"Kan88",c:014ce,c:034ce,c:1913c
 s:003b:01040000:1bc0:02be:1:0:0,"MBC Test 3",p:MBC,c:001ab,c:01273,c:031ab,C:2600
+s:013b:0dca0000:0003:0800:1:0:0,"Monawaat",c:0313b,c:1973,C:1708,C:1709,C:170a,C:170b,f:40
 s:013b:00820000:157c:013e:1:0:0,"nova MAD GREEKZ",p:NOVA,c:00215,c:03215,c:193e,C:699,C:604
 s:013b:00822e2f:157c:013e:1:0:0,"nova MAD GREEKZ",p:NOVA,c:00215,c:03215,c:193e,C:699,C:604
 s:023b:03110000:0069:0e26:1:0:0,"ESFAHAN HD",p:IRIB ESFAHAN HD
@@ -3608,6 +3612,7 @@ s:003c:00d7aaa7:0002:0000:1:0:0,"CCTV13-HD",c:004ba,c:034ba,c:057,c:19456,C:5448
 s:003c:01680000:000b:0004:1:0:0,"Rugby TV",p:Global Link,C:0
 s:003c:00a00000:cb2c:016e:1:0:0,"Pink Zabava",p:pink,c:00230,c:03230,c:051,c:19104,C:629,C:91f,C:911,C:69f
 s:003c:00820000:1964:013e:1:0:0,"VOD 202",p:Cyfrowy Polsat S.A.,c:00fd2,c:01fd3,c:03fd2,c:051,C:0
+s:013c:0dca0000:0003:0800:1:0:0,"Khalijiyat",c:0313c,c:1974,C:1708,C:1709,C:170a,C:170b,f:40
 s:013c:00820000:3e1c:013f:1:0:0,"CNEWS",p:Eutelsat,C:0
 s:033c:0dca0000:0007:0800:1:0:0,"RT ARABIC SD",c:002c,c:032c,c:19186,f:11000
 s:033c:0dca2f02:0007:0800:1:0:0,"RT ARABIC SD",c:002c,c:032c,c:19186
@@ -3813,7 +3818,7 @@ s:0c44:00a0318a:0001:0001:1:0:0,"3140 Poznan VOX",c:03c46,c:19c44
 s:0f44:0ce40000:0027:0036:1:0:0,"SYFY",p:SYFY,c:00fb3,c:03fb3,c:051,c:19331,C:1802
 s:1144:01860000:03fc:039e:1:0:0,"SS3-HD",p:Tring TV,c:001145,c:031145,c:19134,C:baa
 s:1444:00820000:05dc:013e:1:0:0,"HBO2 HD",p:CANAL+
-s:1644:0dc00000:0320:5000:1:0:0,"MASSAYA TV",p:MY TV,c:001646,c:031646,c:191645,f:40
+s:1644:0dc00000:0320:5000:1:0:0,"MASSAYA TV",p:MY TV,c:001646,c:031646,c:191645
 s:1644:00c00000:042c:0001:1:0:0,"DW English HD",p:Deutsche Welle,c:00456,c:01460,c:0212d,c:03456,c:051,c:1944c
 s:1b44:00300000:0011:0055:1:0:0,"Espreso TV"
 s:1f44:0dca0000:0012:006e:1:0:0,"Elkholasa mosalsalat",c:00644,c:01a2c,c:03644,c:19324
@@ -4115,7 +4120,7 @@ s:0452:005aae43:0001:00aa:1:0:0,"E! HD",p:ΟΤΕ,c:00100a,c:03100a,c:051,c:19c22
 s:0452:0dca0000:000b:0800:1:0:0,"MBC Masr 2",p:NILESAT,c:003f7,c:033f7,c:196a,f:1000
 s:0452:0dcaae2f:000b:0800:1:0:0,"MBC Masr 2",p:NILESAT,c:003f7,c:033f7,c:196a
 s:0552:00a00000:75fb:016e:1:0:0,"Astra TV",p:Total TV,c:00106,c:03106,c:19a2,C:91f,C:911,C:69f
-s:0652:0dca0000:0010:0800:1:0:0,"Al Fath Al3amh",p:Nilesat,c:0051f,c:0351f,c:197b
+s:0652:0dca0000:0010:0800:1:0:0,"Wanas TV",p:Nilesat,c:0051f,c:0351f,c:197b
 s:0652:0dcaae7c:0010:0800:1:0:0,"Al Fath Al3amh",p:Nilesat,c:0051f,c:0351f,c:197b
 s:0852:00a0318a:0000:0001:1:0:0,"2130 Lublin ESKA",c:03854,c:19852
 s:0852:00a0318a:0001:0001:1:0:0,"2130 Lublin ESKA",c:03854,c:19852
@@ -4286,6 +4291,7 @@ s:005a:01040000:022c:02be:1:0:0,"OMAN TV Culture HD",p:OMAN TV,c:0038e,c:0338f,c
 s:015a:00130000:0008:0003:1:0:0,"Evil Angel HD",p:neosat,c:00537,c:01538,c:03537,c:051,c:19539,C:4aee
 s:025a:0dca0000:0006:0800:1:0:0,"Test",p:Nilesat,c:004d3,c:034d3,c:196c
 s:025a:008231bb:2774:013e:1:0:0,"FX HD",p:NOVA,c:001f6,c:031f6,c:051,c:19ca,C:604,C:699
+s:035a:0dca0000:0008:0800:1:0:0,"Quran Kareem Mafrak",p:Harmonic,c:032b3,c:1922,f:40
 s:035a:00a00000:c3b4:016e:1:0:0,"POP TV HD",p:SBB,c:00102,c:03102,c:199e,C:91f,C:911,C:69f
 s:045a:005a0000:0001:00aa:1:0:0,"MTV Live",p:OTE,C:0
 s:045a:005aae43:0001:00aa:1:0:0,"MTV Live",p:OTE
@@ -5486,8 +5492,8 @@ s:0688:00a00000:9fc4:016e:1:0:0,"Nova BH HD",c:00110,c:03110,c:19ac,C:91f,C:911,
 s:0788:01a40000:0009:0042:1:0:0,"CHILLOUT",p:DEMIROREN MEDYA,c:006c,c:03134,c:19788,C:6f8,C:92b
 s:0988:00a0318a:0000:0001:1:0:0,"2440 Ilawa ESKA",c:0398a,c:19988
 s:0988:00a0318a:0001:0001:1:0:0,"2440 Ilawa ESKA",c:0398a,c:19988
-s:0988:0dc00000:012c:5000:1:0:0,"Dream Monawaet",p:Gulfsat,c:0098a,c:0198b,c:0398a
-s:0988:0dca0000:012c:5000:1:0:0,"Dream Monawaet",p:Gulfsat
+s:0988:0dc00000:012c:5000:1:0:0,"HALA TV",p:Gulfsat,c:0098a,c:0198b,c:0398a,c:19989
+s:0988:0dca0000:012c:5000:1:0:0,"HALA TV",p:Gulfsat,c:0098a,c:0398a,c:19989
 s:0e88:00820000:3200:013e:1:0:0,"MC EU",p:MB Satellite
 s:1388:0dc00000:01f4:5000:1:0:0,"MASSAYA TV",p:Gulfsat,c:00138a,c:03138a,c:191389
 s:1388:0dca0000:01f4:5000:1:0:0,"MASSAYA TV",p:Gulfsat
@@ -5724,6 +5730,7 @@ s:0192:0082ae1c:1518:013e:1:0:0,"TEST_402",p:NOVA,c:00cd,c:03cd,c:051,c:192c1,C:
 s:0192:0ce40000:0027:0036:1:0:0,"24 Kitchen HD",p:SID 24 Kitchen HD,c:001020,c:031020,c:051,c:19331,C:1802
 s:0192:0dc00000:4ee8:077e:1:0:0,"Al Jazeera Mubasher",p:Al Jazeera,c:00201,c:01294,c:03201,c:19101
 s:0192:0dc0aadb:4ee8:077e:1:0:0,"Al Jazeera Mubasher",p:Al Jazeera,c:00201,c:03201,c:19101
+s:0292:0dca0000:0007:0800:1:0:0,"Alaraby HD TV",c:0022c,c:0322c,c:051,c:19197,f:40
 s:0392:00820000:2134:013e:1:0:0,"JORDAN TV",p:Etisalat,c:00140,c:0114d,c:0389
 s:0492:00a0318a:0000:0001:1:0:0,"1170 Gdansk SuperNova"
 s:0492:00a0318a:0001:0001:1:0:0,"1170 Gdansk SuperNova",c:03494,c:19492
@@ -5881,7 +5888,7 @@ s:0898:00a0318a:0001:0001:1:0:0,"2200 Ostrow ESKA",c:0389a,c:19898
 s:0898:00a00000:5014:016e:1:0:0,"Film Drame",p:DigitALB,c:00899,c:0189a,c:03899,c:051,C:b00
 s:0898:0dc00000:012c:5000:1:0:0,"Dream Cinema",p:Gulfsat,c:0089a,c:0189b,c:0389a
 s:0898:0dca0000:012c:5000:1:0:0,"Dream Cinema",p:Gulfsat
-s:0a98:0dc00000:0001:002a:1:0:0,"DW Arabia HD",p:Deutsche Welle,c:001bd1,c:031bd1,c:191bd0
+s:0a98:0dc00000:0001:002a:1:0:0,"DW Arabia HD",p:Deutsche Welle,c:001bd1,c:031bd1,c:051,c:191bd0
 s:0a98:0dc02b81:0001:002a:1:0:0,"DW Arabia HD",p:Deutsche Welle,c:001bd1,c:031bd1,c:191bd0
 s:1198:00a00000:a028:016e:1:0:0,"Arena Sport 5 HD",p:Telekom Srbija,c:007f9,c:037f9,c:051,c:197f8,C:69f,C:91f,C:911
 s:1798:0ce40000:0027:0036:1:0:0,"TV Cine Emotion",c:001e30,c:031e30,c:051,c:19331,C:1814
@@ -6119,7 +6126,7 @@ s:08a1:0dcaaf16:0016:0800:1:0:0,"Panorama Film",p:Nilesat,c:007e2,c:037e2,c:1932
 s:08a1:00820000:01f4:00fc:1:0:0,"KTV",p:IKOMG,c:007d9,c:01bc1,c:037d9,c:051
 s:0fa1:005a0000:40e1:217c:1:0:0,"Primocanale HD",p:Global
 s:11a1:00a00000:a028:016e:1:0:0,"Hype TV",p:Telekom Srbija,c:00853,c:03853,c:19852,C:69f,C:91f,C:911
-s:11a1:0dca0000:002d:0800:1:0:0,"Spare 4513",c:00d5,c:03d5,c:051,c:1971,C:1708,C:1709,C:170a,C:170b
+s:11a1:0dca0000:002d:0800:1:0:0,"Series +2",c:00d5,c:03d5,c:051,c:1971,C:1708,C:1709,C:170a,C:170b
 s:17a1:0ce40000:002f:0036:1:0:0,"Nickelodeon",c:001f30,c:031f30,c:051,c:19331,C:1814
 s:28a1:01a40000:9ca6:042e:1:0:0,"A HABER",p:TURKUVAZ
 s:28a1:01a4ae6b:9ca6:042e:1:0:0,"A HABER",p:TURKUVAZ,c:00579,c:03579,c:195ab
@@ -6146,7 +6153,7 @@ s:0aa2:0dc00000:0001:002a:1:0:0,"AL MAYADEEN TV"
 s:0fa2:005a0000:0107:217c:1:0:0,"DONNA SPORT TV",p:In Aria!
 s:0fa2:005a0000:40e1:217c:1:0:0,"TELENORD HD",p:TELENORD HD
 s:11a2:00a00000:a028:016e:1:0:0,"Toxic Rap",p:Telekom Srbija,c:0085d,c:0385d,c:1985c,C:69f,C:911,C:91f
-s:11a2:0dca0000:002d:0800:1:0:0,"Spare 4514",c:00d6,c:03d6,c:051,c:1972,C:1708,C:1709,C:170a,C:170b
+s:11a2:0dca0000:002d:0800:1:0:0,"Series",c:00d6,c:03d6,c:051,c:1972,C:1708,C:1709,C:170a,C:170b
 s:12a2:0dc00000:01f4:5000:1:0:0,"MBCA+ TV",p:Gulfsat
 s:12a2:0dca0000:01f4:5000:1:0:0,"MBCA+ TV",p:Gulfsat
 s:14a2:00eb0000:0c98:0003:1:0:0,"LX9SES",p:SES ASTRA,c:031fff,c:1914a2
@@ -7484,7 +7491,7 @@ s:32e1:0082ac0e:0190:013e:1:0:0,"CANAL+ EXTRA 1",p:CANAL+,c:0016c,c:0316c,c:1940
 s:3ae1:00820000:0514:013e:1:0:0,"CANAL+ SPORT 5 HD",p:CANAL+,c:00212,c:03212,c:042da,c:051,c:19431,C:100,C:1813,C:b01,C:1884
 s:3ae1:00822cb9:0514:013e:1:0:0,"CANAL+ SPORT 5 HD",p:CANAL+,c:00212,c:03212,c:19431,C:100,C:1813,C:b01,C:1884
 s:00e2:0dca0000:0002:0800:1:0:0,"Spare 226",p:OSN,c:00e2,c:03e2,c:1978,C:1708,C:170a,C:1709,C:170b,C:18b3
-s:00e2:0dca2e69:0002:0800:1:0:0,"Spare 226",p:OSN,c:00e2,c:03e2,c:1978,C:1708,C:170a,C:1709,C:170b,C:18b3
+s:00e2:0dca2e69:0002:0800:1:0:0,"OSNtv Pop Up 2",p:OSN,c:00e2,c:03e2,c:1978,C:1708,C:170a,C:1709,C:170b,C:18b3
 s:00e2:02ad0000:0002:0049:1:0:0,"Liberation TV",p:Sentech,c:00889,c:03889,c:1988b,f:40
 s:00e2:02adb1b2:0002:0049:1:0:0,"Liberation TV",p:Sentech
 s:00e2:01860000:0011:001c:1:0:0,"Trinitas TV",c:00143,c:03143,c:19e2,C:92f,C:952,C:500
@@ -8271,7 +8278,7 @@ s:000b:00ffabac:0004:0000:2:0:0,"chaine nationale",p:SNRT
 s:000b:00820000:2e18:00b0:2:0:0,"Radio Nationale",p:SNRT,c:03b01,c:19b00
 s:000b:0082aa79:2e18:00b0:2:0:0,"Radio Nationale",p:SNRT,c:03b01,c:19b00
 s:000b:01040000:022c:02be:2:0:0,"Oman General Radio",p:Oman TV,f:10000
-s:000b:0dca0000:0032:0064:2:0:0,"Abu Dhabi FM",p:ADMC
+s:000b:0dca0000:0032:0064:2:0:0,"Abu Dhabi FM",p:ADMC,c:0344d,c:1944c
 s:000b:0dca2c93:0032:0064:2:0:0,"Abu Dhabi FM",p:ADMC
 s:000b:01a40000:003d:002a:2:0:0,"TSR TURKCE",p:TRT
 s:000b:0ce4acfb:0065:0000:2:0:0,"ROCK FM",p:ROCK FM,c:0379,c:191400
@@ -8302,7 +8309,7 @@ s:000c:0082aa79:2e18:00b0:2:0:0,"Radio Sud",p:SNRT,c:03b42,c:19b10
 s:000c:0dca0000:0032:0064:2:0:0,"Emarat FM",p:ADMC,c:034b1,c:194b0
 s:000c:0dca2c93:0032:0064:2:0:0,"Emarat FM",p:ADMC
 s:000c:01040000:7594:077e:2:0:0,"Kuwait Second Program",p:Kuwait Radio 2,f:10000
-s:000c:0dc00000:7594:077e:2:0:0,"Kuwait Second Program",p:Kuwait Radio 2,f:10000
+s:000c:0dc00000:7594:077e:2:0:0,"Kuwait Second Program",p:Kuwait Radio,f:10000
 s:000c:0dca0000:7594:077e:2:0:0,"Kuwait Second Program",p:Kuwait Radio 2,f:10000
 s:000c:0dc0ab2e:7594:077e:2:0:0,"Kuwait Second Program",p:Kuwait Radio
 s:290c:01a40000:9d6d:042e:2:0:0,"RADYO 1",p:TRT,c:03648,c:19101
@@ -8386,7 +8393,7 @@ s:0010:0dca0000:003b:0800:2:0:0,"Al Arabiya FM",p:MBC,c:032c2,c:19640
 s:0010:0dc0accf:003b:0800:2:0:0,"Al Arabiya FM",p:MBC,c:032c2,c:19640
 s:0010:0dcaacd3:003b:0800:2:0:0,"Al Arabiya FM",p:MBC,c:032c2,c:19640
 s:0010:01040000:7594:077e:2:0:0,"Kuwait Super Station",p:Kuwait radio,c:0339,c:19258,f:10000
-s:0010:0dc00000:7594:077e:2:0:0,"Kuwait Super Station",p:Kuwait radio,c:0339,c:19258,f:10000
+s:0010:0dc00000:7594:077e:2:0:0,"Kuwait Super Station",p:Kuwait Radio,c:0339,c:19258,f:10000
 s:0010:0dca0000:7594:077e:2:0:0,"Kuwait Super Station",p:Kuwait radio,c:0339,c:19258,f:10000
 s:0010:0dc0ab2e:7594:077e:2:0:0,"Kuwait Super Station",p:Kuwait Radio
 s:1410:00820000:05dc:013e:2:0:0,"Radio ZET",p:CANAL+
@@ -8426,7 +8433,7 @@ s:0012:0dc0accf:003b:0800:2:0:0,"Loud FM",p:MBC,c:032c2,c:19708
 s:0012:0dcaacd3:003b:0800:2:0:0,"Loud FM",p:MBC,c:032c2,c:19708
 s:0012:01a40000:003d:002a:2:0:0,"Cukurova Radyosu",p:TRT
 s:0012:01040000:7594:077e:2:0:0,"Kuwait Dar Al-Ethaa",p:Kuwait radio,c:033b,c:19320,f:10000
-s:0012:0dc00000:7594:077e:2:0:0,"Kuwait Dar Al-Ethaa",p:Kuwait radio,c:033b,c:19320,f:10000
+s:0012:0dc00000:7594:077e:2:0:0,"Kuwait Dar Al-Ethaa",p:Kuwait Radio,c:033b,c:19320,f:10000
 s:0012:0dca0000:7594:077e:2:0:0,"Kuwait Dar Al-Ethaa",p:Kuwait radio,c:033b,c:19320,f:10000
 s:0012:0dc0ab2e:7594:077e:2:0:0,"Kuwait Dar Al-Ethaa",p:Kuwait Radio,c:033b,c:19320
 s:0212:0ce40000:ea79:0001:2:0:0,"R5_CATALU_PRADO",p:RNE
@@ -9145,7 +9152,7 @@ s:1f58:0064abd5:0001:0010:2:0:0,"52 BFBS Radio 2",p:BFBS,c:031a8,c:19400,C:646
 s:3358:00820000:1388:013e:2:0:0,"RFI Test HB",p:GLOBECAST
 s:4358:00820000:300c:013e:2:0:0,"SRF 1 AG SO",p:Schweizer Radio und Fernsehen,c:03e6,c:191d6
 s:4358:00822adb:300c:013e:2:0:0,"SRF 1 AG SO",p:Schweizer Radio und Fernsehen,c:03e6,c:191d6
-s:0359:0dca0000:0008:0800:2:0:0,"Irbid Radio",c:03366,c:19196
+s:0359:0dca0000:0008:0800:2:0:0,"Quran Kareem irbid",p:Harmonic,c:03366,c:19196
 s:1f59:00640000:0001:0010:2:0:0,"65 BFBS Germany",p:BFBS
 s:1f59:0064abd5:0001:0010:2:0:0,"65 BFBS Germany",p:BFBS,c:031a9,c:19401
 s:4259:00820000:3db8:013e:2:0:0,"Cusano Palermo",p:Telespazio,c:035e1,c:19695
@@ -10225,6 +10232,8 @@ s:0399:00820000:2134:013e:10:0:0,"Oman General Radio R1",p:DU,c:03157,c:19156
 s:039a:00820000:2134:013e:10:0:0,"Oman English Radio R2",p:DU,c:03159,c:19158
 s:039b:00820000:2134:013e:10:0:0,"Oman Shabab Radio R3",p:DU,c:0315b,c:1915a
 s:039c:00820000:2134:013e:10:0:0,"OMAN HOLY QURAN",p:DU,c:0315d,c:1915c
+s:099c:0dc00000:012c:5000:10:0:0,"Al-Husanya Radio",p:Gulfsat,c:0399e,c:1999d,f:40
+s:099c:0dca0000:012c:5000:10:0:0,"Al-Husanya Radio",p:Gulfsat,c:0399e,c:1999d,f:40
 s:02ca:00820000:1b58:013e:10:0:0,"RDP Int",p:Telespazio
 s:02ca:0082af4f:1b58:013e:10:0:0,"RDP Int",p:Telespazio,c:0319d,c:1911a
 s:02cb:00820000:1b58:013e:10:0:0,"Antena 1",p:Telespazio
@@ -11024,6 +11033,7 @@ s:0037:00a00000:0001:016e:22:0:0,"Hayat 2",p:TEAM:SAT,c:0015af,c:0115b0,c:0315af
 s:0038:00a00000:0001:016e:22:0:0,"Hayat Folk",p:TEAM:SAT,c:0015b9,c:0115ba,c:0315b9,c:051,c:1915b8,C:69f,C:91f,C:911
 s:0038:00a00000:0003:0040:22:0:0,"Pickbox 1.",p:T-HT,c:00b60,c:03b60,c:051,c:1920,C:1830,C:91f,C:911,C:69f,C:69b,C:b00
 s:0438:00a00000:4f4c:016e:22:0:0,"Syri TV",p:DigitALB,c:00439,c:03439,c:051,c:19438,C:b00
+s:0438:0dc00000:03b6:5000:22:0:0,"Marina TV HD",p:Gulfsat,c:0043a,c:0343a,c:19439,f:40
 s:0738:00a00000:c5a8:016e:22:0:0,"E!",p:A1 HR,C:0
 s:1838:0dca0000:0190:5000:22:0:0,"LIBYA LEBDA TV",p:MY TV
 s:0039:00a00000:0001:016e:22:0:0,"Hayat Music",p:TEAM:SAT,c:0015c3,c:0115c4,c:0315c3,c:051,c:1915c2,C:69f,C:91f,C:911
@@ -11037,6 +11047,7 @@ s:013c:01862fef:0001:0001:22:0:0,"Travel TV",p:Bulsatcom,c:001a0,c:031a0,c:051,c
 s:0f3c:0dc00000:0384:5000:22:0:0,"Fox Drama",p:Gulfsat,c:00f3e,c:03f3e,c:19f3d
 s:193c:0dc00000:02bc:5000:22:0:0,"AL SHASHA CINEMA",p:Gulfsat,c:00193e,c:03193e,c:051,c:19193d
 s:193c:0dc0ad9e:02bc:5000:22:0:0,"AL SHASHA CINEMA",p:Gulfsat,c:00193e,c:03193e,c:051,c:19193d
+s:1e3c:0dc00000:759e:077e:22:0:0,"Libya Alkarama",p:Gulfsat,c:001e3e,c:031e3e,c:191e3d,f:40
 s:233c:00820000:2328:013e:22:0:0,"TBN",p:STN,c:004b1,c:034b1,c:19398
 s:233c:0082b0e8:2328:013e:22:0:0,"TBN",p:STN,c:004b1,c:034b1,c:19398
 s:003d:00a00000:0001:0040:22:0:0,"STAR Life.",p:T-HT,c:00b16,c:03b16,c:19216,C:1830,C:b00,C:69b
@@ -11324,7 +11335,7 @@ s:006a:00820000:2fa8:013e:22:0:0,"Belarus Tomorrow",p:Svoboda Satellite,c:0041a,
 s:006a:0082aac5:2fa8:013e:22:0:0,"Belarus Tomorrow",p:Svoboda Satellite,c:0041a,c:0341a,c:051,c:1969
 s:006a:0082316e:25e4:00d5:22:0:0,"DSTV",p:VIVACOM,c:008a2,c:038a2,c:051,c:1983e,C:9bd,C:6e1,C:1878,C:1ec0
 s:006a:01680000:00f5:0001:22:0:0,"Disney Junior",p:EDML,c:0080c,c:0180d,c:02815,c:0380c,c:051,C:0
-s:016a:0dca0000:00c9:0800:22:0:0,"Angel TV",c:00e25,c:03e25,c:19e24
+s:016a:0dca0000:00c9:0800:22:0:0,"Angel TV",p:Harris,c:00e25,c:03e25,c:19e24
 s:016a:0dca2c6d:00c9:0800:22:0:0,"Angel TV",c:00e25,c:01e26,c:03e25,c:051,c:19e24
 s:046a:01862fef:0001:0001:22:0:0,"Diema",p:Bulsatcom,c:00d0,c:03d0,c:19e9,C:1878,C:b00
 s:046a:0dc00000:03b6:5000:22:0:0,"ALMADANIAH TV",p:Gulfsat
@@ -11561,6 +11572,7 @@ s:0fa0:00d7a9e3:0001:0001:22:0:0,"Discovery Central Europe SD",p:Warner Bros. Di
 s:13a0:0082b1a9:2710:00d5:22:0:0,"Dorcel TV",p:VIVACOM,c:001404,c:031404,c:051,c:1913a0,C:9bd,C:6e1,C:1878,C:1ec0
 s:14a0:0dc00000:0320:5000:22:0:0,"1 IRAQ TV",p:MY TV,c:0014a2,c:0114a3,c:0314a2,c:051
 s:14a0:0dc02adb:0320:5000:22:0:0,"Iraq Drama",p:MY TV,c:0014a2,c:0314a2,c:1914a1
+s:1ea0:0dc00000:759e:077e:22:0:0,"alafasy",p:Gulfsat,c:001ea2,c:031ea2,c:191ea1,f:40
 s:08a1:00820000:01f4:00fc:22:0:0,"KTV",p:iKOMG,c:007d9,c:037d9,c:193f1
 s:08a1:00822c20:01f4:00fc:22:0:0,"KTV",p:iKOMG,c:007d9,c:037d9,c:193f1
 s:0aa1:00a00000:9dd0:016e:22:0:0,"FashionBox",p:A1 Broadcasting,c:006a5,c:036a5,c:051,c:196a4,C:b00,C:91f,C:911,C:69f
@@ -11813,7 +11825,7 @@ s:17f5:00300000:000c:0055:22:0:0,"BOLT",p:VIASAT,c:00533,c:03533,c:19532,C:5604
 s:19f5:00300000:0010:0055:22:0:0,"NADIYA",p:Hope Media Group,c:0019f6,c:0319f6,c:1919f5
 s:03f6:005a0000:10e1:217c:22:0:0,"Onda Novara Tv",p:Global
 s:0ef6:0dc00000:0384:5000:22:0:0,"Moga Drama",p:Gulfsat,c:00ef8,c:03ef8,c:19ef7
-s:1df6:0dc00000:759e:077e:22:0:0,"Apple Hekayat",p:Gulfsat,c:001df8,c:031df8,c:191df7
+s:1df6:0dc00000:759e:077e:22:0:0,"Apple Hekayat",p:Gulfsat,c:001df8,c:031df8,c:051,c:191df7
 s:00f7:0082316e:25e4:00d5:22:0:0,"MovieSTAR",p:VIVACOM,c:008c7,c:038c7,c:051,c:1592b,c:19863,C:1ec0,C:1878,C:9bd,C:6e1
 s:17f7:00300000:000c:0055:22:0:0,"24 Kanal",p:1plus1 Media,c:00547,c:03547,c:19546
 s:00f8:0082316e:25e4:00d5:22:0:0,"Marquee TV",p:VIVACOM,c:008c8,c:038c8,c:051,c:1592c,c:19864,C:1ec0,C:1878,C:9bd,C:6e1
@@ -12649,7 +12661,7 @@ s:0938:0dc00000:012c:5000:25:0:0,"atv-ALADALAH",p:Gulfsat,c:0093a,c:0193b,c:0393
 s:0938:0dca0000:012c:5000:25:0:0,"atv-ALADALAH",p:Gulfsat,c:0093a,c:0193b,c:0393a,c:051,c:19939
 s:0938:0dc0ad22:012c:5000:25:0:0,"atv-ALADALAH",p:Gulfsat,c:0093a,c:0393a,c:19939
 s:0938:0dcaad27:012c:5000:25:0:0,"atv-ALADALAH",p:Gulfsat,c:0093a,c:0393a,c:19939
-s:1338:0dc00000:01f4:5000:25:0:0,"Al-Jawad TV",p:Gulfsat
+s:1338:0dc00000:01f4:5000:25:0:0,"Quran TV",p:Gulfsat,c:00133a,c:03133a,c:191339
 s:1338:0dca0000:01f4:5000:25:0:0,"Al-Jawad TV",p:Gulfsat,c:00133a,c:01133b,c:03133a,c:051
 s:1838:0dc00000:0190:5000:25:0:0,"LIBYA LEBDA TV",p:MY TV
 s:1838:0dca0000:0190:5000:25:0:0,"LIBYA LEBDA TV",p:MY TV
@@ -12681,7 +12693,7 @@ s:253b:00820000:170c:fbff:25:0:0,"X Factor",p:SkyItalia
 s:9e3b:01040000:0fd2:00e0:25:0:0,"Spare-MTV 80s",p:beIN
 s:003c:005a0000:0200:001d:25:0:0,"RadioItaliaTV",p:Persidera
 s:083c:0dc00000:00c8:077e:25:0:0,"beIN SPORTS XTRA 8",p:beIN,c:031fff,c:1921c
-s:1e3c:0dc00000:759e:077e:25:0:0,"Libya Alkarama",p:Gulfsat,c:001e3e,c:031e3e,c:191e3d,f:40
+s:1e3c:0dc00000:759e:077e:25:0:0,"Libya Alkarama",p:Gulfsat,c:001e3e,c:031e3e,c:191e3d
 s:9e3c:01040000:0fd2:00e0:25:0:0,"Spare-MTV 90s",p:beIN
 s:013d:0dca0000:00c9:0800:25:0:0,"LIBYA ALMASAR TV"
 s:283d:01040000:0067:077e:25:0:0,"beIN 4K",p:beIN,C:0
@@ -12725,7 +12737,7 @@ s:5141:01040000:0820:00e0:25:0:0,"Rotana Cinema HD",p:Nilesat,c:0065,c:01c9,c:03
 s:5141:01043035:0820:00e0:25:0:0,"Rotana Cinema HD",p:Nilesat,c:0065,c:0365,c:051,c:19321
 s:9e41:01040000:0fd2:00e0:25:0:0,"BBC Earth",p:beIN,c:003a3,c:033a3,c:051,c:193a2,C:603,C:627,C:9b5
 s:1342:00a00000:4f4c:016e:25:0:0,"Film Komedi HD",p:DigitALB,c:001343,c:011344,c:031343,c:051,c:191342,C:b00
-s:1342:0dc00000:01f4:5000:25:0:0,"ALBASRA 1 TV",p:Gulfsat
+s:1342:0dc00000:01f4:5000:25:0:0,"Karbala TV",p:Gulsat,c:001344,c:031344,c:191343,f:10000
 s:1342:0dca0000:01f4:5000:25:0:0,"ALBASRA 1 TV",p:Gulfsat,c:001344,c:011345,c:031344,c:051
 s:1842:0dc00000:0190:5000:25:0:0,"Libya Government TV",p:MY TV,c:001844,c:031844,c:191843
 s:1842:0dca0000:0190:5000:25:0:0,"Libya Government TV",p:MY TV
@@ -12844,12 +12856,13 @@ s:024e:0dc0b18f:03b6:5000:25:0:0,"BN TV",p:Gulfsat,c:00250,c:03250,c:1924f
 s:044e:0dca0000:000b:0800:25:0:0,"Test",p:NILESAT,c:003fa,c:033fa,c:1966
 s:044e:0dcaae2f:000b:0800:25:0:0,"Test",p:NILESAT
 s:044e:01040000:7594:077e:25:0:0,"AL-AKHBAR",p:MOI,c:0022,c:0322,c:051,c:19ca
-s:044e:0dc00000:7594:077e:25:0:0,"AL-AKHBAR",p:MOI,c:0022,c:0128,c:0322,c:051,c:19ca
+s:044e:0dc00000:7594:077e:25:0:0,"Al-AKHBAR",p:MOI,c:0022,c:0128,c:0322,c:051,c:19ca
 s:044e:0dca0000:7594:077e:25:0:0,"AL-AKHBAR",p:MOI,c:0022,c:0322,c:051,c:19ca
 s:044e:0dc0ab2e:7594:077e:25:0:0,"Al-AKHBAR",p:MOI,c:0022,c:0322,c:19ca
 s:0d4e:00a00000:c738:016e:25:0:0,"HRTInt. HD",p:OIV,c:00a1,c:03a1,c:051,c:19a0
 s:0d4e:00820000:1450:013e:25:0:0,"Rai Movie HD",p:Rai,c:001fa,c:01272,c:0224a,c:031fa,c:051,c:19452,C:1856,C:183d,C:183e,f:10000
 s:0d4e:0082adf6:1450:013e:25:0:0,"Rai Movie HD",p:Rai,c:001fa,c:031fa,c:051,c:19452,C:1856,C:183d,C:183e
+s:164e:0dc00000:0320:5000:25:0:0,"Marina TV HD",p:MY TV,c:001650,c:031650,c:19164f,f:40
 s:1d4e:0dc00000:004b:0800:25:0:0,"Test HD",p:Nilesat,c:001d4e,c:031d4e,c:1966
 s:004f:00820000:1770:00be:25:0:0,"LA7 HD",c:005a0,c:035a0,c:051,c:19111,C:183d,C:183e,C:1856,C:9cd
 s:004f:0082ae8f:1770:00be:25:0:0,"LA7 HD",c:005a0,c:035a0,c:19111,C:183d,C:183e,C:1856,C:9cd
@@ -12901,7 +12914,7 @@ s:0451:01a40000:0001:0042:25:0:0,"NHK WORLD-JPN",p:DEMIROREN MEDYA,c:0069,c:01cd
 s:0451:0dca0000:000b:0800:25:0:0,"Egyptian TV HD",p:NILESAT,c:0045d,c:0145e,c:0345d,c:051,c:1969,f:1000
 s:0451:0dcaae2f:000b:0800:25:0:0,"Egyptian TV HD",p:NILESAT,c:0045d,c:0345d,c:051,c:1969
 s:0451:01040000:7594:077e:25:0:0,"Kuwait Sport Plus",p:MOI,c:0029,c:0329,c:051,c:19cd
-s:0451:0dc00000:7594:077e:25:0:0,"Kuwait Sport Plus",p:MOI,c:0029,c:01125,c:0329,c:051,c:19cd
+s:0451:0dc00000:7594:077e:25:0:0,"Kuwait Sport plus",p:MOI,c:0029,c:01125,c:0329,c:051,c:19cd
 s:0451:0dca0000:7594:077e:25:0:0,"Kuwait Sport Plus",p:MOI,c:0029,c:0329,c:19cd
 s:0451:0dc0ab2e:7594:077e:25:0:0,"Kuwait Sport plus",p:MOI,c:0029,c:0329,c:19cd
 s:0651:0dca0000:0010:0800:25:0:0,"Al Ghad HD",p:Nilesat,c:0051d,c:0151e,c:0351d,c:051,c:1964,f:1000
@@ -12927,7 +12940,7 @@ s:1e54:0082ae43:15e0:fbff:25:0:0,"Sky Sport Basket",p:SkyItalia,c:00a0,c:03a0,c:
 s:0455:00a00000:526c:016e:25:0:0,"True Crime HD",p:A1 Broadcasting,c:0076d,c:0376d,c:051,c:1976c,C:b00,C:91f,C:911,C:69f
 s:0156:0dca0000:00c9:0800:25:0:0,"TURKMENELI HD",c:006e,c:036e,c:051,c:1945
 s:0156:0dca2c6d:00c9:0800:25:0:0,"TURKMENELI HD",c:006e,c:036e,c:051,c:1945
-s:1356:0dc00000:01f4:5000:25:0:0,"Al shirazioun",p:Gulfsat
+s:1356:0dc00000:01f4:5000:25:0:0,"Karbala Documentary",p:Gulfsat,c:001358,c:031358,c:191357
 s:1356:0dca0000:01f4:5000:25:0:0,"Al shirazioun",p:Gulfsat,c:001358,c:011359,c:031358,c:051
 s:1c57:00820000:2008:fbff:25:0:0,"Sky Cinema Family",p:SkyItalia,c:00a6,c:03a6,c:193f0,C:9cd
 s:1c57:0082b035:2008:fbff:25:0:0,"Sky Cinema Family",p:SkyItalia,c:00a6,c:03a6,c:193f0,C:9cd
@@ -13059,7 +13072,7 @@ s:0065:00822b58:3264:013e:25:0:0,"Kabelio 4+",p:KABELIO.CH,c:003f3,c:033f3,c:051
 s:0065:005a0000:0385:0110:25:0:0,"R101 TV",p:Mediaset
 s:0065:0dca0000:d28c:077e:25:0:0,"MBC MASR HD",p:MBC,c:0065,c:01c9,c:0365,c:051,c:1964,f:1000
 s:0065:0dca2bd3:d28c:077e:25:0:0,"MBC MASR HD",p:MBC,c:0065,c:0365,c:051,c:1964
-s:0065:0dca0000:d098:077e:25:0:0,"Asharq News Channel HD",p:DU,c:00d53,c:01d54,c:03d53,c:051,f:1000
+s:0065:0dca0000:d098:077e:25:0:0,"Asharq News Channel HD",p:DU,c:00d53,c:01d54,c:03d53,c:051,c:19d52,f:1000
 s:0065:0dcab048:d098:077e:25:0:0,"Asharq News Channel HD",p:DU
 s:0065:01680000:00f5:0001:25:0:0,"BabyTV_HD",c:003f2,c:013f3,c:023fc,c:033f2,c:051,c:191b59,C:604
 s:0065:01040000:13f7:02be:25:0:0,"Asharq News Channel HD",p:DU,c:00d53,c:01d54,c:03d53,c:051,c:19d52
@@ -13738,6 +13751,7 @@ s:1391:005a0000:50e1:217c:25:0:0,"50 CANALE HD",p:50 CANALE
 s:3e91:01a40000:a8c3:042e:25:0:0,"TARİH TV",p:TTNET,c:00123b,c:011303,c:03123b,c:051,c:192cd,C:92b,C:656,C:6f8,C:664,C:6ee
 s:0092:005a0000:7918:217c:25:0:0,"RDS Social TV",p:Persidera
 s:0092:00823148:251c:00d5:25:0:0,"Nova News HD",p:VIVACOM,c:004de,c:034de,c:051,c:1947a,C:9bd,C:6e1,C:1878,C:1ec0,C:659
+s:0192:0dca0000:0010:006e:25:0:0,"Dijlah TV HD",c:0026d,c:0326d,c:051,c:191f6,f:40
 s:0192:005a0000:0065:0012:25:0:0,"Bars & Tone"
 s:0192:005aae1c:0065:0012:25:0:0,"Bars & Tone",c:00744,c:03744,c:051,c:19151a
 s:0392:00820000:2134:013e:25:0:0,"JORDAN TV",p:DU,c:00140,c:03140,c:19133,f:10000
@@ -13846,7 +13860,7 @@ s:089c:0dc00000:012c:077e:25:0:0,"Spare-beIN SPORTS MAX 4",p:beIN,c:00281,c:0328
 s:089c:0dc0313c:012c:077e:25:0:0,"beIN SPORTS MAX 4",p:beIN,c:00281,c:03281,c:051,c:19280
 s:099c:0dc00000:012c:5000:25:0:0,"Al-Marjaeyoun TV",p:Gulfsat
 s:099c:0dca0000:012c:5000:25:0:0,"Al-Marjaeyoun TV",p:Gulfsat
-s:0a9c:0dc00000:0001:002a:25:0:0,"SAT.TV",c:001bf9,c:031bf9,c:191bf8
+s:0a9c:0dc00000:0001:002a:25:0:0,"SAT.TV",c:001bf9,c:031bf9,c:051,c:191bf8
 s:0a9c:0dc02b81:0001:002a:25:0:0,"SAT.TV",c:001bf9,c:031bf9,c:191bf8
 s:0a9c:00a00000:9dd0:016e:25:0:0,"360 TuneBox HD",p:Digitalb,c:005dd,c:035dd,c:051,c:19619,C:b00
 s:119c:0dca0000:002d:0800:25:0:0,"OSNtv Comedy",p:OSN,c:00d0,c:03d0,c:04198,c:051,c:092600101,c:196c,C:1708,C:1709,C:170a,C:170b,C:18b3,f:1000
@@ -13900,8 +13914,8 @@ s:13a1:00a00000:4f4c:016e:25:0:0,"Dorcel TV HD",p:A1,c:00139d,c:03139d,c:1913a1,
 s:01a2:01862fef:0001:0001:25:0:0,"Cinestar 1 HD",p:Bulsatcom,c:0058a,c:0358a,c:057,c:19652,C:1878,C:b00
 s:01a2:005a0000:1964:009c:25:0:0,"Deluxe Music HD",p:BASIS 1,c:00803,c:03803,c:051,c:19802,C:b00,C:9af,C:98c,C:98d,C:bc1,C:1840,C:9f0
 s:01a2:005a2eef:1964:009c:25:0:0,"Deluxe Music HD",p:BASIS 1,c:00803,c:03803,c:051,c:19802,C:b00,C:9af,C:98c,C:98d,C:bc1,C:1840,C:9f0
-s:08a2:0dc00000:012c:5000:25:0:0,"Mahdawioun TV",p:Gulfsat
-s:08a2:0dca0000:012c:5000:25:0:0,"Mahdawioun TV",p:Gulfsat
+s:08a2:0dc00000:012c:5000:25:0:0,"Karbala TV",p:Gulfsat,c:008a4,c:038a4,c:051,c:198a3
+s:08a2:0dca0000:012c:5000:25:0:0,"Karbala TV",p:Gulfsat,c:008a4,c:038a4,c:051,c:198a3
 s:08a2:00820000:01f4:00fc:25:0:0,"NU TV",p:iKOMG,c:007da,c:01bc2,c:037da,c:051,c:193f2
 s:08a2:00822c20:01f4:00fc:25:0:0,"NU TV",p:iKOMG,c:007da,c:037da,c:193f2
 s:17a2:0dca0000:0190:5000:25:0:0,"ALEKHBARIYA Sy",p:MY TV
@@ -14425,8 +14439,8 @@ s:3dd7:0082acf4:0640:013e:25:0:0,"TTV HD",p:TVN WBD,c:0021b,c:0321b,c:193d,C:b02
 s:9dd7:01040000:0fc8:00e0:25:0:0,"Cbeebies",p:beIN Sports
 s:07d8:0dc00000:0064:077e:25:0:0,"beIN SPORTS XTRA 5",p:beIN,c:001d7,c:031fff,c:191d6,C:627,C:603,C:9b5
 s:07d8:0dc02b05:0064:077e:25:0:0,"beIN SPORTS XTRA 5",p:beIN,c:001d7,c:031d7,c:191d6,C:627,C:603,C:9b5
-s:09d8:0dc00000:012c:5000:25:0:0,"AL SAYEDAH TV",p:Gulfsat,c:009da,c:019db,c:039da,c:051
-s:09d8:0dca0000:012c:5000:25:0:0,"AL SAYEDAH TV",p:Gulfsat,c:009da,c:019db,c:039da,c:051
+s:09d8:0dc00000:012c:5000:25:0:0,"Quran TV",p:Gulfsat,c:009da,c:019db,c:039da,c:051,c:199d9
+s:09d8:0dca0000:012c:5000:25:0:0,"Quran TV",p:Gulfsat,c:009da,c:019db,c:039da,c:051,c:199d9
 s:0ed8:0dc00000:0384:5000:25:0:0,"AL ARABY TV HD",p:Gulfsat
 s:13d8:00a00000:5014:016e:25:0:0,"KTV",p:DigitALB
 s:13d8:00a00000:51a4:016e:25:0:0,"Klan Kosova HD",p:DigitALB,c:0013d9,c:0113da,c:0313d9,c:051,c:1913d8,C:b00
@@ -14637,8 +14651,8 @@ s:03ec:0dca0000:000a:0800:25:0:0,"Test",p:NILESAT,c:003ec,c:033ec,c:051,c:1968
 s:03ec:0dca2e1c:000a:0800:25:0:0,"Test",p:NILESAT,c:003ec,c:033ec,c:051,c:1968
 s:03ec:00a00000:50dc:016e:25:0:0,"SS-1 HD",p:DigitALB,c:00411,c:01413,c:03411,c:051,c:1944c,C:b00
 s:03ec:005a0000:10e1:217c:25:0:0,"TELECUPOLE",p:TELECUPOLE-TLT
-s:09ec:0dc00000:012c:5000:25:0:0,"ALHIJAZ TV",p:Gulfsat,c:009ee,c:019ef,c:039ee,c:051
-s:09ec:0dca0000:012c:5000:25:0:0,"ALHIJAZ TV",p:Gulfsat,c:009ee,c:019ef,c:039ee,c:051
+s:09ec:0dc00000:012c:5000:25:0:0,"Karbala Documentary",p:Gulfsat,c:009ee,c:019ef,c:039ee,c:051,c:199ed
+s:09ec:0dca0000:012c:5000:25:0:0,"Karbala Documentary",p:Gulfsat,c:009ee,c:019ef,c:039ee,c:051,c:199ed
 s:0dec:00820000:15e0:fbff:25:0:0,"Sky Cinema Stories",p:SkyItalia,c:00a7,c:03a7,c:051,c:193f2,C:9cd
 s:0dec:0082ae43:15e0:fbff:25:0:0,"Sky Cinema Stories",p:SkyItalia,c:00a7,c:03a7,c:051,c:193f2,C:9cd
 s:13ec:005a0000:c3aa:009e:25:0:0,"HGTV Central Europe HD",p:Warner Bros. Discovery,c:0013f7,c:011401,c:0313f7,c:051,c:1913f5,C:500
@@ -15377,4 +15391,4 @@ s:3e1e:00820000:2f44:013e:255:0:0,"10930H SID 0x3e1e",p:DVB-S2 8PSK 10930H 13.0�
 s:0368:00820000:3d54:013e:255:0:0,"11642H SID 0x368",p:DVB-S2 8PSK 11642H 13.0°E
 s:036c:00820000:3d54:013e:255:0:0,"11642H SID 0x36c",p:DVB-S2 8PSK 11642H 13.0°E
 s:3aa0:00820000:05dc:013e:255:0:0,"11488H SID 0x3aa0",p:DVB-S2 8PSK 11488H 13.0°E
-# done. 1332 channels and 14039 services
+# done. 1332 channels and 14053 services
