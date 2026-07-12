@@ -1,0 +1,14 @@
+
+2026-07-12 13:17:57: Found eth0 with DHCP configuration.
+2026-07-12 13:17:57: IP addresses obtained for eth0: IPv4: 192.168.1.12, IPv6: 
+2026-07-12 13:17:57: Resolv.conf content:
+domain domain.name
+nameserver 8.8.8.8
+nameserver 8.8.4.4
+2026-07-12 13:17:57: Checking DNS...
+PING google.com (192.178.194.139): 56 data bytes
+64 bytes from 192.178.194.139: seq=0 ttl=112 time=79.243 ms
+
+--- google.com ping statistics ---
+1 packets transmitted, 1 packets received, 0% packet loss
+round-trip min/avg/max = 79.243/79.243/79.243 ms
