@@ -1,0 +1,380 @@
+OpenATV Enigma2 crash log
+
+crashdate=Sat Jul 11 14:15:44 2026
+compiledate=May 29 2026
+skin=MetrixHD/skin.MySkin.xml
+sourcedate=2026-05-29
+branch=7.6
+rev=35121+666d3f2
+component=Enigma2
+
+model=multiboxse
+machinebuild=novaler4kse
+imageversion=7.6.0
+imagebuild=20260623
+
+kernelcmdline=root=/dev/mmcblk0p23 rootsubdir=linuxrootfs1 rootfstype=ext4 kernel=/dev/mmcblk0p19 console=ttyAMA0,115200 blkdevparts=mmcblk0:1M(fastboot),1M(bootargs),18M(recovery),2M(bootoptions),2M(deviceinfo),4M(baseparam),4M(pqparam),4M(logo),40M(fastplay),20M(kernel),20M(trustedcore),4M(misc),1024M(system),150M(vendor),306M(e2tv),256M(cache),50M(private),8M(securestore),16M(linuxkernel1),16M(linuxkernel2),16M(linuxkernel3),16M(linuxkernel4),-(userdata) hbcomp=/dev/block/mmcblk0p13 mem=937M mmz=ddr,0,0,60M vmalloc=500M
+
+nimsockets:
+NIM Socket 0:
+	Type: DVB-S2X
+	Name: rs6060
+	Has_Outputs: no
+	Frontend_Device: 0
+	I2C_Device: 0
+	Supports_Blind_Scan: yes
+NIM Socket 1:
+	Type: DVB-S2X
+	Name: rs6060
+	Has_Outputs: no
+	Frontend_Device: 1
+	I2C_Device: 0
+	Supports_Blind_Scan: yes
+
+
+
+14:15:28.2262 [Enigma] Python path is '/usr/lib/enigma2/python'.
+14:15:28.2264 [Enigma] DVB API version 5, DVB API version minor 12.
+14:15:28.2265 [Enigma] Enigma debug level 3.
+14:15:28.2265 [Enigma] sourcedate 2026-05-29 / 7.6 35121+666d3f2.
+14:15:30.7848 [eDVBCSAEngine] libdvbcsa not found (dlopen failed)
+14:15:44.5930 Traceback (most recent call last):
+14:15:44.5963   File "/usr/lib/enigma2/python/Plugins/Extensions/EPGGrabber/plugin.py", line 69, in query
+    self.getStatus()
+    ~~~~~~~~~~~~~~^^
+14:15:44.5964   File "/usr/lib/enigma2/python/Plugins/Extensions/EPGGrabber/plugin.py", line 92, in getStatus
+    self.toJson(allData)
+    ~~~~~~~~~~~^^^^^^^^^
+14:15:44.5965   File "/usr/lib/enigma2/python/Plugins/Extensions/EPGGrabber/plugin.py", line 97, in toJson
+    prov, description = line.strip().split(None, 1)
+    ^^^^^^^^^^^^^^^^^
+14:15:44.5966 ValueError: not enough values to unpack (expected 2, got 1)
+14:15:44.5969 [ePyObject] (PyObject_CallObject(<bound method StartTimer.query of <Plugins.Extensions.EPGGrabber.plugin.StartTimer object at 0xab7bde90>>,()) failed)
+
+
+dmesg
+
+<6>Booting Linux on physical CPU 0x0
+<5>Linux version 4.4.35 (openATV@www.opena.tv) (gcc version 15.2.0 (GCC) ) #1 SMP Wed Jun 29 13:36:49 UTC 2022
+<6>CPU: ARMv7 Processor [410fd034] revision 4 (ARMv7), cr=10c5383d
+<6>CPU: PIPT / VIPT nonaliasing data cache, VIPT aliasing instruction cache
+<5>initmrd: found no initmrd.
+<6>Machine model: Hisilicon
+<6>cma: Reserved 60 MiB at 0x35800000
+<6>cma: Reserved 4 MiB at 0x3a400000
+<6>Memory policy: Data cache writealloc
+<7>-------------Fixed IO Mapping----------
+<7>Virt,            Phys,             Size
+<7>0xF9000000,    0xF8000000,    0x02000000
+<7>--------------------------------------
+<7>On node 0 totalpages: 239872
+<7>free_area_init_node: node 0, pgdat c0bb8400, node_mem_map dfca1000
+<7>  Normal zone: 1032 pages used for memmap
+<7>  Normal zone: 0 pages reserved
+<7>  Normal zone: 132096 pages, LIFO batch:31
+<7>  HighMem zone: 107776 pages, LIFO batch:31
+<6>PERCPU: Embedded 13 pages/cpu @dfc5d000 s22604 r8192 d22452 u53248
+<7>pcpu-alloc: s22604 r8192 d22452 u53248 alloc=13*4096
+<7>pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+<6>Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 238840
+<5>Kernel command line: root=/dev/mmcblk0p23 rootsubdir=linuxrootfs1 rootfstype=ext4 kernel=/dev/mmcblk0p19 console=ttyAMA0,115200 blkdevparts=mmcblk0:1M(fastboot),1M(bootargs),18M(recovery),2M(bootoptions),2M(deviceinfo),4M(baseparam),4M(pqparam),4M(logo),40M(fastplay),20M(kernel),20M(trustedcore),4M(misc),1024M(system),150M(vendor),306M(e2tv),256M(cache),50M(private),8M(securestore),16M(linuxkernel1),16M(linuxkernel2),16M(linuxkernel3),16M(linuxkernel4),-(userdata) hbcomp=/dev/block/mmcblk0p13 mem=937M mmz=ddr,0,0,60M vmalloc=500M
+<6>log_buf_len individual max cpu contribution: 4096 bytes
+<6>log_buf_len total cpu_extra contributions: 12288 bytes
+<6>log_buf_len min size: 16384 bytes
+<6>log_buf_len: 32768 bytes
+<6>early log buf free: 14176(86%)
+<6>PID hash table entries: 2048 (order: 1, 8192 bytes)
+<6>Dentry cache hash table entries: 65536 (order: 6, 262144 bytes)
+<6>Inode-cache hash table entries: 32768 (order: 5, 131072 bytes)
+<6>Memory: 862868K/959488K available (8047K kernel code, 672K rwdata, 2156K rodata, 556K init, 522K bss, 31084K reserved, 65536K cma-reserved, 355316K highmem)
+<5>Virtual kernel memory layout:
+<5>    vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+<5>    fixmap  : 0xffc00000 - 0xfff00000   (3072 kB)
+<5>    vmalloc : 0xe0800000 - 0xff800000   ( 496 MB)
+<5>    lowmem  : 0xc0000000 - 0xe0400000   ( 516 MB)
+<5>    pkmap   : 0xbfe00000 - 0xc0000000   (   2 MB)
+<5>    modules : 0xbf000000 - 0xbfe00000   (  14 MB)
+<5>      .text : 0xc0008000 - 0xc07e41ac   (8049 kB)
+<5>      .init : 0xc0a99000 - 0xc0b24000   ( 556 kB)
+<5>      .data : 0xc0b24000 - 0xc0bcc3b4   ( 673 kB)
+<5>       .bss : 0xc0bce000 - 0xc0c50980   ( 523 kB)
+<6>SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=4, Nodes=1
+<6>Hierarchical RCU implementation.
+<6>	Build-time adjustment of leaf fanout to 32.
+<6>NR_IRQS:352
+<6>clocksource: hisp804: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 79635851949 ns
+<6>sched_clock: 32 bits at 24MHz, resolution 41ns, wraps every 89478484971ns
+<6>Console: colour dummy device 80x30
+<6>Calibrating delay loop... 3170.30 BogoMIPS (lpj=1585152)
+<6>pid_max: default: 32768 minimum: 301
+<6>Mount-cache hash table entries: 1024 (order: 0, 4096 bytes)
+<6>Mountpoint-cache hash table entries: 1024 (order: 0, 4096 bytes)
+<6>CPU: Testing write buffer coherency: ok
+<6>ftrace: allocating 26212 entries in 77 pages
+<6>CPU0: update cpu_capacity 1024
+<6>CPU0: thread -1, cpu 0, socket 0, mpidr 80000000
+<6>Setting up static identity map for 0x8280 - 0x82d8
+<4>CPU: hi3798mv200
+<7>CPU1: powerup
+<6>CPU1: update cpu_capacity 1024
+<6>CPU1: thread -1, cpu 1, socket 0, mpidr 80000001
+<7>CPU2: powerup
+<6>CPU2: update cpu_capacity 1024
+<6>CPU2: thread -1, cpu 2, socket 0, mpidr 80000002
+<7>CPU3: powerup
+<6>CPU3: update cpu_capacity 1024
+<6>CPU3: thread -1, cpu 3, socket 0, mpidr 80000003
+<6>Brought up 4 CPUs
+<6>SMP: Total of 4 processors activated (12681.21 BogoMIPS).
+<6>CPU: All CPU(s) started in SVC mode.
+<6>CPU3: update max cpu_capacity 1024
+<6>devtmpfs: initialized
+<6>VFP support v0.3: implementor 41 architecture 3 part 40 variant 3 rev 4
+<6>clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 1911260446275000 ns
+<4>PCIe read alloc area phyaddr 08  size 00000000
+<4>PCIe write alloc area phyaddr 08  size 00000000
+<6>NET: Registered protocol family 16
+<6>DMA: preallocated 256 KiB pool for atomic coherent allocations
+<6>CPU1: update max cpu_capacity 1024
+<6>hw-breakpoint: found 5 (+1 reserved) breakpoint and 4 watchpoint registers.
+<6>hw-breakpoint: maximum watchpoint size is 8 bytes.
+<6>Serial: AMBA PL011 UART driver
+<6>f8b00000.uart: ttyAMA0 at MMIO 0xf8b00000 (irq = 25, base_baud = 0) is a PL011 rev2
+<6>console [ttyAMA0] enabled
+<6>f8b02000.uart: ttyAMA1 at MMIO 0xf8b02000 (irq = 26, base_baud = 0) is a PL011 rev2
+<6>f8b03000.uart: ttyAMA2 at MMIO 0xf8b03000 (irq = 27, base_baud = 0) is a PL011 rev2
+<6>pl061_gpio f8b20000.gpio0: PL061 GPIO chip @0xf8b20000 registered
+<6>pl061_gpio f8b21000.gpio1: PL061 GPIO chip @0xf8b21000 registered
+<6>pl061_gpio f8b22000.gpio2: PL061 GPIO chip @0xf8b22000 registered
+<6>pl061_gpio f8b23000.gpio3: PL061 GPIO chip @0xf8b23000 registered
+<6>pl061_gpio f8b24000.gpio4: PL061 GPIO chip @0xf8b24000 registered
+<6>pl061_gpio f8004000.gpio5: PL061 GPIO chip @0xf8004000 registered
+<6>pl061_gpio f8b26000.gpio6: PL061 GPIO chip @0xf8b26000 registered
+<6>pl061_gpio f8b27000.gpio7: PL061 GPIO chip @0xf8b27000 registered
+<6>pl061_gpio f8b28000.gpio8: PL061 GPIO chip @0xf8b28000 registered
+<6>pl061_gpio f8b29000.gpio9: PL061 GPIO chip @0xf8b29000 registered
+<4>hisilicon-pcie: probe of f0001000.pcie failed with error -1
+<6>hisi_iommu_ptable_addr:phy 0x1e800000    size:0x400000
+<6>hisi_iommu_err_rdaddr :phy 0x1f747400    size:0x200
+<6>hisi_iommu_err_wraddr :phy 0x1f747600     size:0x200
+<6>in hisi_iommu_domain_init start 
+<6>in hisi_iommu_domain_init end 
+<6>vgaarb: loaded
+<5>SCSI subsystem initialized
+<7>libata version 3.00 loaded.
+<6>ssp-pl022 f8b1a000.spi: ARM PL022 driver, device ID: 0x00041022
+<6>ssp-pl022 f8b1a000.spi: mapped registers from 0xf8b1a000 to f9b1a000
+<6>spi_master spi0: will run message pump with realtime priority
+<6>usbcore: registered new interface driver usbfs
+<6>usbcore: registered new interface driver hub
+<6>usbcore: registered new device driver usb
+<6>media: Linux media interface: v0.10
+<6>Linux video capture interface: v2.00
+<6>Advanced Linux Sound Architecture Driver Initialized.
+<6>clocksource: Switched to clocksource hisp804
+<5>FS-Cache: Loaded
+<6>NET: Registered protocol family 2
+<6>TCP established hash table entries: 4096 (order: 2, 16384 bytes)
+<6>TCP bind hash table entries: 4096 (order: 3, 32768 bytes)
+<6>TCP: Hash tables configured (established 4096 bind 4096)
+<6>UDP hash table entries: 256 (order: 1, 8192 bytes)
+<6>UDP-Lite hash table entries: 256 (order: 1, 8192 bytes)
+<6>NET: Registered protocol family 1
+<6>RPC: Registered named UNIX socket transport module.
+<6>RPC: Registered udp transport module.
+<6>RPC: Registered tcp transport module.
+<6>RPC: Registered tcp NFSv4.1 backchannel transport module.
+<7>PCI: CLS 0 bytes, default 64
+<6>NetWinder Floating Point Emulator V0.97 (double precision)
+<6>hw perfevents: enabled with armv7_cortex_a17 PMU driver, 7 counters available
+<6>futex hash table entries: 1024 (order: 4, 65536 bytes)
+<5>VFS: Disk quotas dquot_6.6.0
+<6>VFS: Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+<6>squashfs: version 4.0 (2009/01/31) Phillip Lougher
+<5>NFS: Registering the id_resolver key type
+<5>Key type id_resolver registered
+<5>Key type id_legacy registered
+<6>nfs4filelayout_init: NFSv4 File Layout Driver Registering...
+<6>Installing knfsd (copyright (C) 1996 okir@monad.swb.de).
+<5>FS-Cache: Netfs 'cifs' registered for caching
+<6>jffs2: version 2.2. (NAND) © 2001-2006 Red Hat, Inc.
+<6>fuse init (API version 7.23)
+<7>yaffs: yaffs built Installing.
+<6>bounce: pool size: 64 pages
+<6>Block layer SCSI generic (bsg) driver version 0.4 loaded (major 252)
+<6>io scheduler noop registered
+<6>io scheduler deadline registered (default)
+<6>io scheduler cfq registered
+<6>hiahci-phy: registered new sata phy driver
+<6>brd: module loaded
+<6>loop: module loaded
+<4>ahci: probe of f9900000.hiahci failed with error -1
+<6>hifmc100: registerd new interface driver hifmc100.
+<5>hifmc100: Found flash memory controller hifmc100.
+<6>hifmc100: no found spi-nor device.
+<6>hifmc100: no found nand device.
+<6>hifmc100: no found spi-nand device.
+<6>FEPHY:addr=2, la_am=0xe, ldo_am=0x3, r_tuning=0x16
+<6>libphy: himii: probed
+<6>hi_eth: attached port 0 PHY 2 to driver HiSilicon Festa v330
+<6>/soc/ethernet@f9840000/ethernet_phy@0 has invalid PHY address=255
+<6>ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+<6>ehci-pci: EHCI PCI platform driver
+<6>ehci-platform: EHCI generic platform driver
+<6>ehci-platform f9890000.ehci: EHCI Host Controller
+<6>ehci-platform f9890000.ehci: new USB bus registered, assigned bus number 1
+<6>ehci-platform f9890000.ehci: irq 34, io mem 0xf9890000
+<6>ehci-platform f9890000.ehci: USB 2.0 started, EHCI 1.00
+<6>hub 1-0:1.0: USB hub found
+<6>hub 1-0:1.0: 2 ports detected
+<6>ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+<6>ohci-pci: OHCI PCI platform driver
+<6>ohci-platform: OHCI generic platform driver
+<6>ohci-platform f9880000.ohci: Generic Platform OHCI controller
+<6>ohci-platform f9880000.ohci: new USB bus registered, assigned bus number 2
+<6>ohci-platform f9880000.ohci: irq 35, io mem 0xf9880000
+<6>hub 2-0:1.0: USB hub found
+<6>hub 2-0:1.0: 2 ports detected
+<6>xhci-hcd f98a0000.xhci: xHCI Host Controller
+<6>xhci-hcd f98a0000.xhci: new USB bus registered, assigned bus number 3
+<6>xhci-hcd f98a0000.xhci: hcc params 0x0220f06c hci version 0x100 quirks 0x00030010
+<6>xhci-hcd f98a0000.xhci: irq 37, io mem 0xf98a0000
+<6>hub 3-0:1.0: USB hub found
+<6>hub 3-0:1.0: 1 port detected
+<6>xhci-hcd f98a0000.xhci: xHCI Host Controller
+<6>xhci-hcd f98a0000.xhci: new USB bus registered, assigned bus number 4
+<6>usb usb4: We don't know the algorithms for LPM for this host, disabling LPM.
+<6>hub 4-0:1.0: USB hub found
+<6>hub 4-0:1.0: 1 port detected
+<6>usbcore: registered new interface driver usb-storage
+<6>mousedev: PS/2 mouse device common for all mice
+<6>usbcore: registered new interface driver xpad
+<6>i2c /dev entries driver
+<6>IR NEC protocol handler initialized
+<6>IR RC5(x/sz) protocol handler initialized
+<6>IR RC6 protocol handler initialized
+<6>IR JVC protocol handler initialized
+<6>IR Sony protocol handler initialized
+<6>IR SANYO protocol handler initialized
+<6>IR Sharp protocol handler initialized
+<6>IR MCE Keyboard/mouse protocol handler initialized
+<6>IR XMP protocol handler initialized
+<6>sp805-wdt f8a2c000.watchdog: registration successful
+<4>registered new interface driver himciV2.0_4.4.35_20170401
+<6>usb 1-2: new high-speed USB device number 2 using ehci-platform
+<6>usb 4-1: new SuperSpeed USB device number 2 using xhci-hcd
+<6>usb-storage 4-1:1.0: USB Mass Storage device detected
+<6>scsi host0: usb-storage 4-1:1.0
+<6>mmc0: MAN_BKOPS_EN bit is not set
+<4>scan edges:3 p2f:7 f2p:2
+<4>mix set temp-phase 4
+<4>scan elemnts: startp:26 endp:8
+<5>Tuning SampleClock. mix set phase:[05/07] ele:[02/17] 
+<6>mmc0: new HS400 MMC card at address 0001
+<6>mmcblk0: mmc0:0001 8GTF4R 7.28 GiB 
+<6>mmcblk0boot0: mmc0:0001 8GTF4R partition 1 4.00 MiB
+<6>mmcblk0boot1: mmc0:0001 8GTF4R partition 2 4.00 MiB
+<6>mmcblk0rpmb: mmc0:0001 8GTF4R partition 3 512 KiB
+<6> mmcblk0: p1(fastboot) p2(bootargs) p3(recovery) p4(bootoptions) p5(deviceinfo) p6(baseparam) p7(pqparam) p8(logo) p9(fastplay) p10(kernel) p11(trustedcore) p12(misc) p13(system) p14(vendor) p15(e2tv) p16(cache) p17(private) p18(securestore) p19(linuxkernel1) p20(linuxkernel2) p21(linuxkernel3) p22(linuxkernel4) p23(userdata)
+<5>f9820000.himciv200.SD: eMMC/MMC/SD Device NOT detected!
+<5>f9c40000.himciv200.SD: eMMC/MMC/SD Device NOT detected!
+<6>usbcore: registered new interface driver usbhid
+<6>usbhid: USB HID core driver
+<6>ashmem: initialized
+<6>oprofile: using timer interrupt.
+<6>Netfilter messages via NETLINK v0.30.
+<6>nfnl_acct: registering with nfnetlink.
+<6>wireguard: WireGuard 1.0.20220627 loaded. See www.wireguard.com for information.
+<6>wireguard: Copyright (C) 2015-2019 Jason A. Donenfeld <Jason@zx2c4.com>. All Rights Reserved.
+<6>ip_tables: (C) 2000-2006 Netfilter Core Team
+<6>arp_tables: (C) 2002 David S. Miller
+<6>NET: Registered protocol family 10
+<6>NET: Registered protocol family 17
+<5>Key type dns_resolver registered
+<5>Registering SWP/SWPB emulation handler
+<6>ALSA device list:
+<6>  No soundcards found.
+<6>Freeing unused kernel memory: 556K (c0a99000 - c0b24000)
+<4>This architecture does not have kernel memory protection.
+<5>scsi 0:0:0:0: Direct-Access     ATA      Samsung SSD 850  2B6Q PQ: 0 ANSI: 6
+<5>sd 0:0:0:0: [sda] 488397168 512-byte logical blocks: (250 GB/233 GiB)
+<5>sd 0:0:0:0: [sda] Write Protect is off
+<7>sd 0:0:0:0: [sda] Mode Sense: 43 00 00 00
+<5>sd 0:0:0:0: [sda] Write cache: disabled, read cache: enabled, doesn't support DPO or FUA
+<5>random: nonblocking pool is initialized
+<6> sda: sda1
+<5>sd 0:0:0:0: [sda] Attached SCSI disk
+<4>EXT4-fs (mmcblk0p23): warning: maximal mount count reached, running e2fsck is recommended
+<6>EXT4-fs (mmcblk0p23): recovery complete
+<6>EXT4-fs (mmcblk0p23): mounted filesystem with ordered data mode. Opts: (null)
+<4>FAT-fs (mmcblk0p4): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+<6>EXT4-fs (sda1): recovery complete
+<6>EXT4-fs (sda1): mounted filesystem with ordered data mode. Opts: (null)
+<6>hisi-sndcard hisi-sndcard: aiao-hifi <-> hisi-i2s mapping ok
+<6>input: dreambox advanced remote control (native) as /devices/virtual/input/input1
+<6>input: rc mouse emulation as /devices/virtual/input/input2
+<6>DVB: registering new adapter (dvb0)
+<6>platform dvb0.0: DVB: registering adapter 0 frontend 0 (DVB-S2)...
+<6>platform dvb0.0: DVB: registering adapter 0 frontend 1 (DVB-S2)...
+<4>Mali: Mali device driver loaded
+<4>tntfs: module license 'Commercial. For support email ntfs-support@tuxera.com.' taints kernel.
+<4>Disabling lock debugging due to kernel taint
+<6>Tuxera NTFS driver 3017.7.4.6 [Flags: R/W MODULE].
+<6>Built against headers 4.4.35_hi3798mv2x #1 SMP Tue Dec 12 14:16:24 CST 2017 arm
+<6>Running on kernel 4.4.35 #1 SMP Wed Jun 29 13:36:49 UTC 2022 armv7l
+<2>WARNING: Running kernel does not match configured kernel headers the driver was built with!  The driver needs to be rebuilt with the correct kernel headers!
+<6>SGI XFS with ACLs, security attributes, realtime, no debug enabled
+<6>EXT4-fs (mmcblk0p23): re-mounted. Opts: data=ordered
+<4>r8188eu: module is from the staging directory, the quality is unknown, you have been warned.
+<6>Chip Version Info: CHIP_8188E_Normal_Chip_TSMC_UNKNOWN_CUT(10)_1T1R_RomVer(0)
+<6>usbcore: registered new interface driver r8188eu
+<30>udevd[1388]: starting version 3.2.14
+<30>udevd[1400]: starting eudev-3.2.14
+<6>IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+<6>hieth f9c30000.hieth eth0: Link is Up - 100Mbps/Full - flow control rx/tx
+<6>IPv6: ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+<4>UDF-fs: warning (device mmcblk0p1): udf_fill_super: No partition found (2)
+<4>UDF-fs: warning (device mmcblk0p1): udf_fill_super: No partition found (2)
+<6>yaffs: dev is 187695105 name is "mmcblk0p1" rw
+<6>yaffs: passed flags ""
+<7>yaffs: yaffs: Attempting MTD mount of 179.1,"mmcblk0p1"
+<7>yaffs: yaffs: MTD device 1 either not valid or unavailable
+<6>yaffs: dev is 187695105 name is "mmcblk0p1" rw
+<6>yaffs: passed flags ""
+<7>yaffs: yaffs: Attempting MTD mount of 179.1,"mmcblk0p1"
+<7>yaffs: yaffs: MTD device 1 either not valid or unavailable
+<6>tntfs info (device mmcblk0p1, pid 2642): ntfs_fill_super(): fail_safe is enabled.
+<4>UDF-fs: warning (device mmcblk0p3): udf_fill_super: No partition found (2)
+<4>UDF-fs: warning (device mmcblk0p3): udf_fill_super: No partition found (2)
+<6>yaffs: dev is 187695107 name is "mmcblk0p3" rw
+<6>yaffs: passed flags ""
+<7>yaffs: yaffs: Attempting MTD mount of 179.3,"mmcblk0p3"
+<7>yaffs: yaffs: MTD device 3 either not valid or unavailable
+<6>yaffs: dev is 187695107 name is "mmcblk0p3" rw
+<6>yaffs: passed flags ""
+<7>yaffs: yaffs: Attempting MTD mount of 179.3,"mmcblk0p3"
+<7>yaffs: yaffs: MTD device 3 either not valid or unavailable
+<6>tntfs info (device mmcblk0p3, pid 2681): ntfs_fill_super(): fail_safe is enabled.
+<4>UDF-fs: warning (device mmcblk0p1): udf_fill_super: No partition found (2)
+<4>UDF-fs: warning (device mmcblk0p1): udf_fill_super: No partition found (2)
+<6>yaffs: dev is 187695105 name is "mmcblk0p1" rw
+<6>yaffs: passed flags ""
+<7>yaffs: yaffs: Attempting MTD mount of 179.1,"mmcblk0p1"
+<7>yaffs: yaffs: MTD device 1 either not valid or unavailable
+<6>yaffs: dev is 187695105 name is "mmcblk0p1" rw
+<6>yaffs: passed flags ""
+<7>yaffs: yaffs: Attempting MTD mount of 179.1,"mmcblk0p1"
+<7>yaffs: yaffs: MTD device 1 either not valid or unavailable
+<6>tntfs info (device mmcblk0p1, pid 2885): ntfs_fill_super(): fail_safe is enabled.
+<4>UDF-fs: warning (device mmcblk0p3): udf_fill_super: No partition found (2)
+<4>UDF-fs: warning (device mmcblk0p3): udf_fill_super: No partition found (2)
+<6>yaffs: dev is 187695107 name is "mmcblk0p3" rw
+<6>yaffs: passed flags ""
+<7>yaffs: yaffs: Attempting MTD mount of 179.3,"mmcblk0p3"
+<7>yaffs: yaffs: MTD device 3 either not valid or unavailable
+<6>yaffs: dev is 187695107 name is "mmcblk0p3" rw
+<6>yaffs: passed flags ""
+<7>yaffs: yaffs: Attempting MTD mount of 179.3,"mmcblk0p3"
+<7>yaffs: yaffs: MTD device 3 either not valid or unavailable
+<6>tntfs info (device mmcblk0p3, pid 2924): ntfs_fill_super(): fail_safe is enabled.
+
